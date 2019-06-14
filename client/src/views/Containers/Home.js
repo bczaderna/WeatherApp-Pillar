@@ -68,9 +68,9 @@ class Home extends Component {
             <ul>
                <li>Weather: {this.state.weather}</li>
                <li>Pressure: {this.state.pressure}</li>
-               <li>Current Temp: {this.state.temp} ° F</li>
-               <li>High: {this.state.tempHigh}° F</li>
-               <li>Low: {this.state.tempLow}° F</li>
+               <li>Current Temp: {this.state.temp} °</li>
+               <li>High: {this.state.tempHigh}°</li>
+               <li>Low: {this.state.tempLow}°</li>
                
 
             </ul>
